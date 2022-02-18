@@ -1,0 +1,9 @@
+# run: conda env create --file environment.yml
+name: narafi
+dependencies:
+- python==3.8
+# - anaconda
+# - pip
+# - numpy==1.22.2
+# - pip:
+#   - matplotlib==2.0.0
