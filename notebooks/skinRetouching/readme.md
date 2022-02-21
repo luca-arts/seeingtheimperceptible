@@ -1,11 +1,11 @@
-# Background Removal
+# Skin Retouching
 
 ## Context
 
 ## overview of libraries
 
-1. [MODNet](https://github.com/ZHKKKe/MODNet)
-
+1. [RetouchML](https://github.com/ju-leon/RetouchML)
+2. [Stylegan2 Encoder](https://github.com/robertluxemburg/stylegan2encoder)
 
 ## testing a library
 

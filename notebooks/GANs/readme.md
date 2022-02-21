@@ -1,11 +1,10 @@
-# Background Removal
+# GANs in Action
 
 ## Context
 
 ## overview of libraries
 
-1. [MODNet](https://github.com/ZHKKKe/MODNet)
-
+1. [GANs in Action](https://github.com/GANs-in-Action/gans-in-action)
 
 ## testing a library
 

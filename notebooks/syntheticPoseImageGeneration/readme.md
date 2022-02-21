@@ -1,11 +1,12 @@
-# Background Removal
+# Synthetic Pose Image Generation
 
 ## Context
 
 ## overview of libraries
 
-1. [MODNet](https://github.com/ZHKKKe/MODNet)
-
+1. [Pose Guided Person Image Generation](https://github.com/charliememory/Pose-Guided-Person-Image-Generation)
+2. [Guided Image-to-Image Translation with Bi-Directional Feature Transformation](https://github.com/vt-vl-lab/Guided-pix2pix)
+3. 3. [EfficientPose](https://github.com/daniegr/EfficientPose)
 
 ## testing a library
 
