@@ -5,6 +5,8 @@ Project page for research project Seeing The Imperceptible (Lieven Verkens)
 ## Introduction
 
 <!-- TODO add timeline here and ratio -->
+![lookbook](./images/Timeline_LB_Retouching_Page_1.png)
+![lookbook](./images/Timeline_LB_Retouching_Page_2.png)
 
 ### Research questions
 
