@@ -1,17 +1,15 @@
-# Background Removal
+# Color Grading
 
 ## Context
 
-[Semantic Segmentation](https://learnopencv.com/applications-of-foreground-background-separation-with-semantic-segmentation/)
-
-
+[Total Relighting](https://augmentedperception.github.io/total_relighting/)
 
 ## overview of libraries
 
-1. [MODNet](https://github.com/ZHKKKe/MODNet)
-2. [AlphaBlending](https://github.com/spmallick/learnopencv/tree/master/AlphaBlending)
-3. [BG Subtraction](https://github.com/spmallick/learnopencv/tree/master/Background-Subtraction)
-4. [Semantic Segmentation](https://github.com/spmallick/learnopencv/tree/master/app-seperation-semseg)
+1. [OpenCV Photoshop Filters](https://github.com/spmallick/learnopencv/tree/master/Photoshop-Filters-in-OpenCV)
+2. [ColorMap](https://github.com/spmallick/learnopencv/tree/master/Colormap)
+3. [Colorization](https://github.com/spmallick/learnopencv/tree/master/Colorization)
+4. [High-Resolution Photorealistic Image Translation](https://github.com/csjliang/LPTN)
 
 ## testing a library
 

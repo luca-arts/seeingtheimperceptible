@@ -1,17 +1,15 @@
-# Background Removal
+# Image Editing
 
 ## Context
 
-[Semantic Segmentation](https://learnopencv.com/applications-of-foreground-background-separation-with-semantic-segmentation/)
-
-
+[OpenCV SC](https://learnopencv.com/seamless-cloning-using-opencv-python-cpp/)
+[Seamless Cloning Org](http://www.irisa.fr/vista/Papers/2003_siggraph_perez.pdf)
 
 ## overview of libraries
 
-1. [MODNet](https://github.com/ZHKKKe/MODNet)
-2. [AlphaBlending](https://github.com/spmallick/learnopencv/tree/master/AlphaBlending)
-3. [BG Subtraction](https://github.com/spmallick/learnopencv/tree/master/Background-Subtraction)
-4. [Semantic Segmentation](https://github.com/spmallick/learnopencv/tree/master/app-seperation-semseg)
+1. [Seamless Cloning](https://github.com/spmallick/learnopencv/tree/master/SeamlessCloning)
+2. [LaMa](https://github.com/saic-mdal/lama)
+
 
 ## testing a library
 

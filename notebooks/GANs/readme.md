@@ -5,6 +5,7 @@
 ## overview of libraries
 
 1. [GANs in Action](https://github.com/GANs-in-Action/gans-in-action)
+2. [StyleGAN3](https://github.com/NVlabs/stylegan3)
 
 ## testing a library
 
