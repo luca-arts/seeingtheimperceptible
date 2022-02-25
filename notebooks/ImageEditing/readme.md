@@ -4,11 +4,17 @@
 
 [OpenCV SC](https://learnopencv.com/seamless-cloning-using-opencv-python-cpp/)
 [Seamless Cloning Org](http://www.irisa.fr/vista/Papers/2003_siggraph_perez.pdf)
+[Image Analysis](https://app.runwayml.com/model-collection/image-analysis)
 
 ## overview of libraries
 
 1. [Seamless Cloning](https://github.com/spmallick/learnopencv/tree/master/SeamlessCloning)
 2. [LaMa](https://github.com/saic-mdal/lama)
+3. [StyleGAN2 Distillation for Feed-forward Image Manipulation](https://github.com/EvgenyKashin/stylegan2-distillation)
+4. [Deep Preset: Blending and Retouching Photos with Color Style Transfer](https://github.com/minhmanho/deep_preset)
+5. [Portrait Photo Retouching with PPR10K](https://github.com/csjliang/PPR10K)
+6. [MAXIM: Multi-Axis MLP for Image Processing - DATASETS](https://github.com/vztu/MAXIM)
+7. [Image Composition GAN](https://github.com/Asha-Gutlapalli/TensorFlow-DoveNet)
 
 
 ## testing a library

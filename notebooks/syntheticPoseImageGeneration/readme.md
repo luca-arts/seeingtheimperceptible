@@ -15,6 +15,7 @@
 3. [DeepFashion: Fashion Landmark Detection](https://github.com/open-mmlab/mmfashion)
 4. [ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
 5. [Deformable GANs for Pose-based Human Image Generation](https://github.com/AliaksandrSiarohin/pose-gan)
+6. [DeepFashion2](https://github.com/switchablenorms/DeepFashion2)
 
 ## testing a library
 
