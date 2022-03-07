@@ -1,4 +1,4 @@
-# usage: download the file via !curl raw.githubusercontent.com -o /content/database_mod.py
+# usage: download the file via !curl https://raw.githubusercontent.com/luca-arts/seeingtheimperceptible/main/notebooks/database_mod.py -o /content/database_mod.py
 def link_nextcloud(Nextcloud_URL="https://cloud.bxlab.net/remote.php/dav/files/colab/colabfiles/"):
   '''
   link_nextcloud is a function which mounts a nextcloud database ´Nextcloud_URL´ to /content/database
