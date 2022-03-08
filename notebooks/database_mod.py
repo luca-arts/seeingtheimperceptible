@@ -1,6 +1,8 @@
 '''
   usage: download the file to a notebook via 
+  
   !curl https://raw.githubusercontent.com/luca-arts/seeingtheimperceptible/main/notebooks/database_mod.py -o /content/database_mod.py
+  from database_mod import *
 '''
 def link_nextcloud(Nextcloud_URL="https://cloud.bxlab.net/remote.php/dav/files/colab/colabfiles/"):
   '''
