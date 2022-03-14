@@ -10,6 +10,7 @@
 2. [ColorMap](https://github.com/spmallick/learnopencv/tree/master/Colormap)
 3. [Colorization](https://github.com/spmallick/learnopencv/tree/master/Colorization)
 4. [High-Resolution Photorealistic Image Translation](https://github.com/csjliang/LPTN)
+5. [Portrait Photo Retouching with PPR10K](https://github.com/csjliang/PPR10K)
 
 ## testing a library
 
