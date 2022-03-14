@@ -1,15 +1,12 @@
-# Skin Retouching
+# TOPIC
 
 ## Context
 
+1. [Sensor Dust Removal](https://teaandtechtime.com/automatic-sensor-dust-removal/)
+
 ## overview of libraries
 
-1. [RetouchML](https://github.com/ju-leon/RetouchML)
-2. [Stylegan2 Encoder](https://github.com/robertluxemburg/stylegan2encoder)
-3. [GFPGAN](https://github.com/TencentARC/GFPGAN)
-4. [ESRGAN](https://github.com/xinntao/Real-ESRGAN)
-5. [FaceXLib](https://github.com/xinntao/facexlib)
-6. [Face Smoothing](https://github.com/5starkarma/face-smoothing)
+1. [Automatic Sensor Dust Removal](https://github.com/Tschucker/Python-Automatic-Sensor-Dust-Removal)
 
 ## testing a library
 

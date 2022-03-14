@@ -3,6 +3,8 @@
 ## Context
 
 [Total Relighting](https://augmentedperception.github.io/total_relighting/)
+[Aerochrome Film Emulation](https://teaandtechtime.com/emulating-kodak-aerochrome-infrared-film-with-python-image-processing/)
+
 
 ## overview of libraries
 
@@ -11,6 +13,7 @@
 3. [Colorization](https://github.com/spmallick/learnopencv/tree/master/Colorization)
 4. [High-Resolution Photorealistic Image Translation](https://github.com/csjliang/LPTN)
 5. [Portrait Photo Retouching with PPR10K](https://github.com/csjliang/PPR10K)
+6. [Infrared: Aerochrome Film Emulation](https://github.com/Tschucker/Python-Aerochrome-Film-Emulation)
 
 ## testing a library
 
