@@ -33,11 +33,16 @@ def link_nextcloud(Nextcloud_URL="https://cloud.bxlab.net/remote.php/dav/files/c
   
   return nextcloud
 
-def create_zip(zip_filename='output.zip',output_folder='/content/output_folder'):
+def download_zip(zip_filename='output.zip',output_folder='/content/output_folder'):
+  '''
+  a function to automatically download the results stored in <output_folder> to your local computer in zip format
+  '''
   import os
+  from google.colab import files
   if os.path.exists(zip_filename):
     os.remove(zip_filename)
   os.system(f"zip -r -j {zip_filename} {output_folder}/*")
+  files.download(zip_filename)
 
   
 def create_io(database='/content/database/', topic=None, library=None):
