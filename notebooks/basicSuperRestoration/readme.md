@@ -1,14 +1,13 @@
-# Skin Retouching
+# TOPIC
 
 ## Context
 
+1. [Basic Super Restoration](https://github.com/xinntao/BasicSR-examples)
+
 ## overview of libraries
 
-1. [RetouchML](https://github.com/ju-leon/RetouchML)
-2. [Stylegan2 Encoder](https://github.com/robertluxemburg/stylegan2encoder)
-3. [GFPGAN](https://github.com/TencentARC/GFPGAN)
-4. [ESRGAN](https://github.com/xinntao/Real-ESRGAN)
-5. [FaceXLib](https://github.com/xinntao/facexlib)
+1. [BasicSR](https://github.com/xinntao/BasicSR)
+
 
 ## testing a library
 
