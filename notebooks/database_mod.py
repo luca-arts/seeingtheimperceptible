@@ -33,13 +33,12 @@ def link_nextcloud(Nextcloud_URL="https://cloud.bxlab.net/remote.php/dav/files/c
   
   return nextcloud
 
-def download_zip(zip_filename='output.zip',output_folder='/content/output_folder'):
+def create_zip(zip_filename='output.zip',output_folder='/content/output_folder'):
   import os
   if os.path.exists(zip_filename):
     os.remove(zip_filename)
-
   os.system(f"zip -r -j {zip_filename} {output_folder}/*")
-  files.download(zip_filename)
+
   
 def create_io(database='/content/database/', topic=None, library=None):
   '''
