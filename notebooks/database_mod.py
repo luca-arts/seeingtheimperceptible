@@ -46,9 +46,9 @@ def create_io(database='/content/database/', topic=None, library=None):
   An output folder for experiments gets created via `topic/library` 
   '''
   import shutil, os
-  input_folder = database+topic
+  input_folder = os.path.join(database,topic,'input')
 
-  output_folder = database+topic+'/'+library
+  output_folder = os.path.join(database,topic,library)
   if os.path.exists(output_folder):
     shutil.rmtree(output_folder)
   os.makedirs(output_folder)
