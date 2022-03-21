@@ -1,12 +1,12 @@
 # seeing the imperceptible
 
-Project page for research project Seeing The Imperceptible (Lieven Verkens)
+Project page for research project Visualising The Imperceptible (Lieven Verkens)
 
 ## Introduction
 
 <!-- TODO add timeline here and ratio -->
-![lookbook](./images/Timeline_LB_Retouching_Page_1.png)
-![lookbook](./images/Timeline_LB_Retouching_Page_2.png)
+![lookbook](./images/Timeline_LB_Retouching_Lightroom.png)
+![lookbook](./images/Timeline_LB_Retouching_Photoshop.png)
 
 ### Research questions
 
