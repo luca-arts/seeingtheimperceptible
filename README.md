@@ -18,12 +18,20 @@ Project page for research project Visualising The Imperceptible (Lieven Verkens)
 
 ## Metrics
 
-| target     | resolution | other metrics (e.g. |
-| ---------- | ---------- | ------------------- |
-| smartphone | ≥ x pixels | ...                 |
-| billboard  | ≥          | ...                 |
-| computer   | ≥          | ...                 |
-| ...        | ...        | ...                 |
+| target     | resolution px | other metrics (e.g. | DPI |  
+| ---------- | ------------- | ------------------- | --- |
+| smartphone | ≥ 750x1334    |                     | 326 |
+| smartphone | ≤ 1440x3120   |                     | 564 |
+| laptop     | ≥ 1080x1920   |                     | 72  |
+| laptop     | ≤ 3000x2000   |                     | 72  |
+| lookbook 1 | 816x1056      | 215.9x279.4 mm (A4) | 96  |
+| lookbook 2 | 528x816       | 139.7x215.9 mm (A5) | 96  |
+| lookbook 1 | 2550x3300     | 215.9x279.4 mm (A4) | 300 |
+| lookbook 2 | 1650x2550     | 139.7x215.9 mm (A5) | 300 |
+| IG-post SQ | 1080x1080     |                     | 72  |
+| IG-post H  | 1200x608      |                     | 72  |
+| IG-post V  | 1080x1350     |                     | 72  |
+| IG-story   | 1080x1920     |                     | 72  |
 
 ## folder structure
 
