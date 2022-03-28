@@ -14,6 +14,7 @@
 4. [High-Resolution Photorealistic Image Translation](https://github.com/csjliang/LPTN)
 5. [Portrait Photo Retouching with PPR10K](https://github.com/csjliang/PPR10K)
 6. [Infrared: Aerochrome Film Emulation](https://github.com/Tschucker/Python-Aerochrome-Film-Emulation)
+7. [LUT Creator](https://github.com/steveseguin/color-grading)
 
 ## testing a library
 
