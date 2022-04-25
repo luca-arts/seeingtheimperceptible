@@ -15,6 +15,7 @@
 5. [Portrait Photo Retouching with PPR10K](https://github.com/csjliang/PPR10K)
 6. [Infrared: Aerochrome Film Emulation](https://github.com/Tschucker/Python-Aerochrome-Film-Emulation)
 7. [LUT Creator](https://github.com/steveseguin/color-grading)
+8. [Deep Preset: Blending and Retouching Photos with Color Style Transfer](https://github.com/minhmanho/deep_preset)
 
 ## testing a library
 
