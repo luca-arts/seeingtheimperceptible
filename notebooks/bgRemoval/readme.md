@@ -6,13 +6,13 @@
 [Background Matting V2](https://grail.cs.washington.edu/projects/background-matting-v2/#/datasets)
 
 
-
 ## overview of libraries
 
 1. [MODNet](https://github.com/ZHKKKe/MODNet)
 2. [AlphaBlending](https://github.com/spmallick/learnopencv/tree/master/AlphaBlending)
 3. [BG Subtraction](https://github.com/spmallick/learnopencv/tree/master/Background-Subtraction)
 4. [Semantic Segmentation](https://github.com/spmallick/learnopencv/tree/master/app-seperation-semseg)
+5. [PaddleSeg Matting](https://github.com/PaddlePaddle/PaddleSeg/tree/release/2.5/Matting#Background-Replacement)
 
 ## testing a library
 
