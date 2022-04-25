@@ -6,6 +6,7 @@ Project page for research project Visualising The Imperceptible (Lieven Verkens)
 
 ![lookbook](./images/Timeline_LB_Retouching_Lightroom.png)
 ![lookbook](./images/Timeline_LB_Retouching_Photoshop.png)
+![flow](./images/Timeline_LookBook_Flow.png)
 
 ### Research questions
 
