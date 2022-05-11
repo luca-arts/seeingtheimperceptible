@@ -7,6 +7,7 @@
 [Human Pose Estimation using Keypoint RCNN in PyTorch](https://learnopencv.com/human-pose-estimation-using-keypoint-rcnn-in-pytorch/)
 [Neural Re-Rendering of Humans from a Single Image](https://vcai.mpi-inf.mpg.de/projects/NHRR/)
 
+
 ## overview of libraries
 
 1. [Pose Guided Person Image Generation](https://github.com/charliememory/Pose-Guided-Person-Image-Generation)
@@ -16,6 +17,8 @@
 4. [ICCV17-fashionGAN](https://github.com/zhusz/ICCV17-fashionGAN)
 5. [Deformable GANs for Pose-based Human Image Generation](https://github.com/AliaksandrSiarohin/pose-gan)
 6. [DeepFashion2](https://github.com/switchablenorms/DeepFashion2)
+7. [DensePose](https://github.com/facebookresearch/detectron2/tree/main/projects/DensePose) needed for IUV-mapping
+
 
 ## testing a library
 
