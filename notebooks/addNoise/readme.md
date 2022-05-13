@@ -2,8 +2,6 @@
 
 ## Context
 
-1. [Basic Super Restoration](https://github.com/xinntao/BasicSR-examples)
-
 ## overview of libraries
 
 1. [addNoise](https://github.com/xieKKKi/image_noise_denoise)
