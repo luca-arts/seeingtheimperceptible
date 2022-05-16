@@ -22,7 +22,7 @@ Project page for research project Visualising The Imperceptible (Lieven Verkens)
 |metric|our solution|lightroom|photoshop|luminar|capture one|
 |---|---|---|---|---|---|
 |batchmode| auto | 1/2 auto* | 1/2 auto* | 1/2 auto* | 1/2 auto* |
-|sensor dust| auto | 1/2 auto* | manual | manual |
+|sensor dust| auto | 1/2 auto* | manual | auto | 1/2 auto* |
 |background dust| manual | manual | manual | manual | manual |
 |image cleanup|manual| manual | manual | manual | manual |
 |background removal| auto | manual | manual | manual | manual |
