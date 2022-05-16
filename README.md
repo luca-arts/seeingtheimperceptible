@@ -24,7 +24,7 @@ Project page for research project Visualising The Imperceptible (Lieven Verkens)
 |batchmode| auto | 1/2 auto* | 1/2 auto* | 1/2 auto* | 1/2 auto* |
 |sensor dust| auto | 1/2 auto* | manual | auto | 1/2 auto* |
 |image cleanup|manual| manual | manual | manual | manual |
-|background removal| auto | manual | 1/2 auto | 1/2 auto | - |
+|background removal| auto | 1/2 auto | 1/2 auto | 1/2 auto | - |
 |background replacement| auto | manual | manual | manual | - |
 |clothes recoloring |-| x | x | x | - |
 |skin correction| auto | manual | 1/2 auto | auto | manual |
