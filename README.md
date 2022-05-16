@@ -17,6 +17,27 @@ Project page for research project Visualising The Imperceptible (Lieven Verkens)
 
 4. Additionally: Can AI be of value as a creative stimuli in the creation of a notebook?
 
+## comparison with SOTA
+
+|metric|our solution|lightroom|photoshop|luminar|...|
+|---|---|---|---|---|---|
+|work in batch| x ||||||
+|sensor dust|x|||||
+|background dust||||||
+|image cleanup|x with manual intervention|||||
+|background removal| x|||||
+|background replacement|x|||||
+|clothes recoloring |-|||||
+|skin correction|x|||||
+|color correction: dodge & burn|-|||||
+|color corrections: levels,constrast & curves |x|||||
+|color grading|x|||||
+|image upscaling|x|||||
+|||||||
+
+
+
+
 ## Metrics
 
 | target     | resolution px | other metrics (e.g. | DPI |  
