@@ -28,6 +28,7 @@ def link_nextcloud(Nextcloud_URL="https://cloud.bxlab.net/remote.php/dav/files/c
     p = run(['mount', nextcloud], stdout=PIPE,
             input='{}\n{}\n'.format(un, pw), encoding='ascii')
     print(p.returncode)
+    assert(p.returncode == 0)
     print(p.stdout)
     txt = "/etc/fstab"
     viewTxt = open(txt, "r")
