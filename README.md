@@ -21,20 +21,21 @@ Project page for research project Visualising The Imperceptible (Lieven Verkens)
 
 |metric|our solution|lightroom|photoshop|luminar|capture one|
 |---|---|---|---|---|---|
-|batchmode| auto | manual | manual | manual | manual |
-|sensor dust| auto | 1/2 auto | manual | manual |
-|background dust||||||
-|image cleanup|x with manual intervention|||||
-|background removal| x|||||
-|background replacement|x|||||
-|clothes recoloring |-|||||
-|skin correction|x|||||
-|color correction: dodge & burn|-|||||
-|color corrections: levels,contrast & curves |x|||||
-|color grading|x|||||
-|image upscaling|x|||||
+|batchmode| auto | 1/2 auto* | 1/2 auto* | 1/2 auto* | 1/2 auto* |
+|sensor dust| auto | 1/2 auto* | manual | manual |
+|background dust| manual | manual | manual | manual | manual |
+|image cleanup|manual| manual | manual | manual | manual |
+|background removal| auto | manual | manual | manual | manual |
+|background replacement| auto | manual | manual | manual | manual |
+|clothes recoloring |-| manual | manual | manual | manual |
+|skin correction| auto | manual | manual | manual | manual |
+|color correction: dodge & burn|-| manual | manual | manual | manual |
+|color corrections: levels,contrast & curves | auto | 1/2 auto* | 1/2 auto* | 1/2 auto* | 1/2 auto* |
+|color grading| auto | 1/2 auto* | 1/2 auto* | 1/2 auto* | 1/2 auto* |
+|image upscaling| x | x | x | x | x |
 |||||||
 
+* manual preset
 
 
 
