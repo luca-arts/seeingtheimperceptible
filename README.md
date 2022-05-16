@@ -19,10 +19,10 @@ Project page for research project Visualising The Imperceptible (Lieven Verkens)
 
 ## comparison with SOTA
 
-|metric|our solution|lightroom|photoshop|luminar|...|
+|metric|our solution|lightroom|photoshop|luminar|capture one|
 |---|---|---|---|---|---|
-|work in batch| x ||||||
-|sensor dust|x|||||
+|batchmode| auto | manual | manual | manual | manual |
+|sensor dust| auto | 1/2 auto | manual | manual |
 |background dust||||||
 |image cleanup|x with manual intervention|||||
 |background removal| x|||||
@@ -30,7 +30,7 @@ Project page for research project Visualising The Imperceptible (Lieven Verkens)
 |clothes recoloring |-|||||
 |skin correction|x|||||
 |color correction: dodge & burn|-|||||
-|color corrections: levels,constrast & curves |x|||||
+|color corrections: levels,contrast & curves |x|||||
 |color grading|x|||||
 |image upscaling|x|||||
 |||||||
@@ -58,4 +58,3 @@ Project page for research project Visualising The Imperceptible (Lieven Verkens)
 ## folder structure
 
 In notebooks, per topic there's a directory with notebooks to evaluate different approaches. In the accompanying markdown file we note down the expected result and findings.
-
