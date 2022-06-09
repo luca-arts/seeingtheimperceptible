@@ -31,10 +31,10 @@ Project page for research project Visualising The Imperceptible (Lieven Verkens)
 |color correction: dodge & burn|-| manual | manual | manual | manual |
 |color corrections: levels,contrast & curves | auto | 1/2 auto* | 1/2 auto* | 1/2 auto* | 1/2 auto* |
 |color grading| auto | 1/2 auto* | 1/2 auto* | 1/2 auto* | 1/2 auto* |
-|image upscaling| x | x | x | x | x |
-|||||||
+|image upscaling| semi auto | x | x | x | x |
+|noise| semi auto | manual | manual | manual | manual |
 
- * preset
+ (* preset)
 
 
 
