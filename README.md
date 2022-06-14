@@ -10,12 +10,9 @@ Project page for research project Visualising The Imperceptible (Lieven Verkens)
 
 ### Research questions
 
-1. To what extent can we use open source machine learning models to remove repetitive and labor intensive work from a photographer?
+1. How can we integrate open-source machine learning models within the current workflow of photographers, and put these models to work to free lens-based creatives of repetitive and labour-intensive tasks?
 2. To what extent does the workfield think or hope that AI/ML would change their future craft?
-3. How is it possible to combine open source machine learning models within the current workflow of photographers?
-
-
-4. Additionally: Can AI be of value as a creative stimuli in the creation of a notebook?
+3. Can AI be of value as a creative stimuli in the creation of a notebook?
 
 ## comparison with SOTA
 
