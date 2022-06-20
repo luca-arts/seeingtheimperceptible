@@ -12,7 +12,7 @@ Project page for research project Visualising The Imperceptible (Lieven Verkens)
 
 1. How can we integrate open-source machine learning models within the current workflow of photographers, and put these models to work to free lens-based creatives of repetitive and labour-intensive tasks?
 2. To what extent does the workfield think or hope that AI/ML would change their future craft?
-3. Can AI be of value as a creative stimuli in the creation of a notebook?
+3. Can AI be of value as a creative stimuli in the creation of a lookbook?
 
 ## comparison with SOTA
 
