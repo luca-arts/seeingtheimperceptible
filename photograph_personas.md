@@ -2,7 +2,7 @@
 
 1. Pers fotograaf
 2. Trouw fotograaf
-3. Documentaire fotograaf: beelden maken door in de diepte te gaan binnen een bepaald topic
+3. Documentaire fotograaf
 4. Architectuur / Interieurarchitectuur fotograaf
 5. Mode fotograaf
 6. Food fotograaf
@@ -35,12 +35,13 @@
 
 ### Documentaire fotograaf
 
-- maakt beelden over een bepaald onderwerp en gaat hier dieper op in.
+- maakt beelden over een bepaald actueel of maatschappelijk onderwerp en gaat hier dieper op in.
 - publiceert werk in kranten / magazines
 - brengt boeken uit
 - stelt tentoon
 - reist veel om het onderwerp volledig in beeld te brengen
 - werkt voor (foto) magazines, op commissie (Unicef), voor zichzelf
+
 
 
 ### Architectuur fotograaf
@@ -113,7 +114,7 @@
 
 - maakt beelden van tragische gebeurtenissen
 - beelden moeten accuraat zijn om nadien te gebruiken voor gerechtelijk onderzoek
-- bestaand en kunstmatig licht 
+- bestaand en kunstmatig licht
 - werkt voor gerecht
 
 
