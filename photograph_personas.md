@@ -3,15 +3,15 @@
 1. Pers fotograaf
 2. Trouw fotograaf
 3. Documentaire fotograaf
-4. Architectuur / Interieurarchitectuur fotograaf
+4. Architectuur / Interieur fotograaf
 5. Mode fotograaf
 6. Food fotograaf
-7. Beauty- en portretfotograaf
+7. Beauty- en portret fotograaf
 8. Event fotograaf
 9. Kunst fotograaf
 10. Studio / Reclame fotograaf
 11. Bedrijfs fotograaf
-12. Technische/forensische fotograaf
+12. Technisch / Forensisch fotograaf
 13. Auto fotograaf
 14. Sport fotograaf
 
@@ -21,14 +21,14 @@
 ### Pers fotograaf
 
 - maakt beelden van recente gebeurtenissen in de wereld of lokaal
-- vluchtige fotografie, op / in het moment
+- vluchtig, op / in het moment
 - werkt voor kranten / magazines /
 
 
 ### Trouw fotograaf
 
 - maakt beelden om kleine / grote momenten in een mensenleven vast te leggen
-- kan geen herkansing krijgen
+- geen herkansing
 - emoties vastleggen
 - werkt voor particulieren
 
@@ -40,8 +40,7 @@
 - brengt boeken uit
 - stelt tentoon
 - reist veel om het onderwerp volledig in beeld te brengen
-- werkt voor (foto) magazines, op commissie (Unicef), voor zichzelf
-
+- werkt voor (foto) magazines, op commissie, voor zichzelf
 
 
 ### Architectuur fotograaf
@@ -49,7 +48,7 @@
 - maakt beelden van nieuwe / gerenoveerde / historische of architecturaal interessante gebouwen
 - neemt veel tijd om zijn beelden te maken
 - juiste moment van de dag / licht
-- werkt met bestaand en kunstlicht
+- werkt met bestaand en/of kunstlicht
 - werkt voor bouwindustrie / vastgoed sector / architecten / magazines / boeken
 
 
@@ -88,17 +87,16 @@
 
 ### Kunst fotograaf
 
-- maakt beelden op commissie en meestal voor zichzelf
-- de onderwerpen zijn verscheiden
+- maakt beelden op commissie en voor zichzelf
 - alle beelden komen vanuit de fotograaf die een onderwerp dieper gaat invullen
 - werkt thematisch / conceptueel
-- werkt voor zich zelf of kunstgallerijen
+- werkt voor zich zelf, tentoonstellingen, festivals of kunst gallerijen
 
 
 ### Studio / Reclame fotograaf
 
 - maakt beelden voor reclame campagnes, producten
-- werkt met bestaand en kunstlicht afhankelijk van het onderwerp
+- werkt met bestaand en/of kunstlicht afhankelijk van het onderwerp
 - product is hier het belangrijkst
 - werkt samen met reclame buro's
 
@@ -106,7 +104,7 @@
 ### Bedrijfs fotograaf
 
 - maakt beelden in bedrijven om processen vast te leggen of portretten te maken.
-- werkt met bestaand en kunstlicht
+- werkt met bestaand en/of kunstlicht
 - werkt voor specifieke agentschappen, bedrijven
 
 
@@ -120,9 +118,9 @@
 
 ### Auto fotograaf
 
-- maakt beelden van de auto's
+- maakt beelden van auto's, dit kan zowel binnen als buiten zijn.
 - technisch niet evident om alles rechtstreeks in 1 beeld te maken.
-- werkt voor publiciteit buro's, automerk
+- werkt voor publiciteit buro's, automerken
 
 
 ### Sport fotograaf
