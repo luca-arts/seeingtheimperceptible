@@ -11,11 +11,11 @@ based on the use of AI within photography, we investigate two completely differe
 
 ## Automation
 
-see ![automation](./Automatisation.md)
+see [automation](./Automatisation.md)
 
 ## creation
 
-See ![Creation](Creation.md)
+See [Creation](Creation.md)
 ==> meeting met Kobe: hoe short snippets targetten
 ==> 
 
