@@ -14,9 +14,32 @@
 12. Technisch / Forensisch fotograaf
 13. Auto fotograaf
 14. Sport fotograaf
+15. Concert fotograaf
+
+## Methodologie
+
+1. opsommen van persona's en wat hun uniek maakt.
+2. We leven ons in per persona/doen gerichte interviews om te weten hoe en waar we generative AI kunnen gebruiken.
+3. We proberen in kaart te brengen wat de extra/verminderde workload zou zijn & waar de kosten zich kunnen situeren.
+4. We testen hoe AI voor de verschillende persona's gebruikt zou kunnen worden en welke kwaliteit we kunnen bereiken.
+
+
+## Interviews
+
+1. we maken afspraken met mensen uit het werkveld.
+2. Op voorhand proberen we onszelf in te leven en enkele out of the box voorbeelden te verzinnen.
+3. Tijdens de afspraak tonen we eerst de AI tools en mogelijkheden ervan.
+4. Indien inspiratie opdroogt halen we out of the box voorbeelden boven.
+5. We maken een synposis van het gesprek.
+
+Validatie?
 
 
 ## waarin verschillende deze personas?
+
+
+#todo: ethische aspect toevoegen
+#todo: rolverdeling, met wie werken zij typisch samen, hebben ze zelf alle creatieve vrijheid?
 
 ### Pers fotograaf
 
@@ -42,6 +65,7 @@
 - reist veel om het onderwerp volledig in beeld te brengen
 - werkt voor (foto) magazines, op commissie, voor zichzelf
 
+%%vertrekkende van een sfeervolle foto een template genereren voor bijvoorbeeld data-storytelling%%
 
 ### Architectuur fotograaf
 
@@ -133,3 +157,10 @@
 - kan geen herkansing krijgen
 - emotie capteren, inspanning capteren, publiek als bijkomend geheel dat belangrijk is
 - werkt voor: voor kranten, voor social media, voor sponsors, voor wetenschappelijk onderzoek
+
+### Concert fotograaf
+
+- neemt foto's in moeilijke belichtingsomstandigheden
+- Vaak gelieerd aan een krant
+- Kort tijdsframe, vaak maar een kwartier toegestane tijd
+- 
