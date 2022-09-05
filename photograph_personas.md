@@ -1,7 +1,7 @@
 # personas
 
 1. Pers fotograaf
-2. Trouw fotograaf
+2. Huwelijks fotograaf
 3. Documentaire fotograaf
 4. Architectuur / Interieur fotograaf
 5. Mode fotograaf
@@ -21,16 +21,18 @@
 ### Pers fotograaf
 
 - maakt beelden van recente gebeurtenissen in de wereld of lokaal
-- vluchtig, op / in het moment
+- vluchtig, op / in het moment beelden maken
 - werkt voor kranten / magazines /
+- AI-automatisatie (colorgrading, color corrections)
 
 
-### Trouw fotograaf
+### Huwelijks fotograaf
 
 - maakt beelden om kleine / grote momenten in een mensenleven vast te leggen
 - geen herkansing
 - emoties vastleggen
 - werkt voor particulieren
+- AI- automatisatie & synthetiseren van scenes om achteraf in post-productie te gebruiken
 
 
 ### Documentaire fotograaf
@@ -41,7 +43,8 @@
 - stelt tentoon
 - reist veel om het onderwerp volledig in beeld te brengen
 - werkt voor (foto) magazines, op commissie, voor zichzelf
-
+- AI-automatisatie (colorgrading, color corrections)
+-
 
 ### Architectuur fotograaf
 
@@ -50,6 +53,8 @@
 - juiste moment van de dag / licht
 - werkt met bestaand en/of kunstlicht
 - werkt voor bouwindustrie / vastgoed sector / architecten / magazines / boeken
+- AI-automatisatie (colorgrading, color corrections)
+- nieuwe conceptuele beelden genereren via AI
 
 
 ### Mode fotograaf
@@ -58,6 +63,8 @@
 - werken in team met m.u.a en styliste
 - werkt met bestaand en kunstlicht
 - werkt voor mode magazines / modellen buro's / kledingmerken / lookbook
+- AI-automatisatie (skin retouching, colorgrading, color corrections, bg-removal)
+- synthetiseren van beelden via AI om moodboard, scenes, compositie te creëren of conceptueel werk te maken
 
 
 ### Food fotograaf
@@ -66,6 +73,9 @@
 - neemt de tijd om met een styliste tot een goed beeld te komen om het product in al zijn glorie te hebben.
 - maakt gebruik van bestaand licht en kunstlicht afhankelijk van het product / klant
 - werkt voor food magazines / recepten boeken / reclame buro
+- AI-automatisatie (colorgrading, color corrections)
+- synthetiseren van beelden voor moodboard, scenes, compositie of bij post-productie voor inpainting
+- rendering via AI van enkele elementen om het beeld rijker te maken
 
 
 ### Beauty- en portretfotograaf
@@ -74,6 +84,8 @@
 - werkt in team met m.u.a en styliste
 - werkt met bestaand en kunstlicht
 - werkt voor mode magazines / modellen buro's / lichaamverzorgingsproducten
+- AI-automatisatie (skin retouching, colorgrading, color corrections, bg-removal)
+- synthetiseren van beelden via AI om moodboard, scenes, compositie te creëren of conceptueel werk te maken
 
 
 ### Event fotograaf
@@ -83,6 +95,7 @@
 - soms ook geen herkansing mogelijk
 - werkt zowel met bestaand licht en invul licht
 - werkt voor event buro's, bedrijven
+- AI-automatisatie (colorgrading, color corrections)
 
 
 ### Kunst fotograaf
@@ -91,6 +104,7 @@
 - alle beelden komen vanuit de fotograaf die een onderwerp dieper gaat invullen
 - werkt thematisch / conceptueel
 - werkt voor zich zelf, tentoonstellingen, festivals of kunst gallerijen
+- synthetiseren van beelden via AI om moodboard, scenes, compositie te creëren en conceptueel werk te maken
 
 
 ### Studio / Reclame fotograaf
@@ -99,6 +113,9 @@
 - werkt met bestaand en/of kunstlicht afhankelijk van het onderwerp
 - product is hier het belangrijkst
 - werkt samen met reclame buro's
+- AI-automatisatie (colorgrading, color corrections, bg-removal)
+- synthetiseren van beelden voor moodboard, scenes, compositie of bij post-productie voor inpainting
+- rendering via AI van enkele elementen om het beeld rijker te maken
 
 
 ### Bedrijfs fotograaf
@@ -106,6 +123,9 @@
 - maakt beelden in bedrijven om processen vast te leggen of portretten te maken.
 - werkt met bestaand en/of kunstlicht
 - werkt voor specifieke agentschappen, bedrijven
+- AI-automatisatie (colorgrading, color corrections, bg-removal)
+- storende elementen vervangen door gesynthetiseerde elementen met behulp van AI om het beeld rijker te maken
+
 
 
 ### Technische/forensische fotograaf
@@ -113,7 +133,9 @@
 - maakt beelden van tragische gebeurtenissen
 - beelden moeten accuraat zijn om nadien te gebruiken voor gerechtelijk onderzoek
 - bestaand en kunstmatig licht
-- werkt voor gerecht
+- werkt voor justitie ed
+- AI-automatisatie (color corrections, image segmentation, object detection)
+
 
 
 ### Auto fotograaf
@@ -121,6 +143,8 @@
 - maakt beelden van auto's, dit kan zowel binnen als buiten zijn.
 - technisch niet evident om alles rechtstreeks in 1 beeld te maken.
 - werkt voor publiciteit buro's, automerken
+- AI-automatisatie (colorgrading, color corrections, bg-removal)
+- storende elementen vervangen door gesynthetiseerde elementen met behulp van AI om het beeld interessant te maken
 
 
 ### Sport fotograaf
@@ -130,3 +154,5 @@
 - kan geen herkansing krijgen
 - emotie capteren, inspanning capteren, publiek als bijkomend geheel dat belangrijk is
 - werkt voor: voor kranten, voor social media, voor sponsors, voor wetenschappelijk onderzoek
+- AI-automatisatie (colorgrading, color corrections)
+- storende elementen vervangen door gesynthetiseerde elementen met behulp van AI om het beeld interessant te maken (bokeh, mm lens)
