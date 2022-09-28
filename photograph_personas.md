@@ -22,6 +22,7 @@
 2. We leven ons in per persona/doen gerichte interviews om te weten hoe en waar we generative AI kunnen gebruiken.
 3. We proberen in kaart te brengen wat de extra/verminderde workload zou zijn & waar de kosten zich kunnen situeren.
 4. We testen hoe AI voor de verschillende persona's gebruikt zou kunnen worden en welke kwaliteit we kunnen bereiken.
+5. SWOT analyse per individu dat we interviewen: wat kan AI voor hun betekenen en zien ze er zelf in?
 
 
 ## Interviews
