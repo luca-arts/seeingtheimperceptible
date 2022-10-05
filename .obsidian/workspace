@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Feedback Tom.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 329.5
   },
   "right": {
     "id": "07006a736a8471af",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Feedback Tom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,9 @@
   },
   "active": "64ba46b2595a2548",
   "lastOpenFiles": [
+    "feedback Kobe & Alexandra.md",
+    "Feedback Tom.md",
+    "photograph_personas.md",
     "README.md"
   ]
 }

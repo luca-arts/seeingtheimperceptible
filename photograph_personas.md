@@ -15,6 +15,7 @@
 13. Auto fotograaf
 14. Sport fotograaf
 
+#todo: add ethic limitations, think how to define for each persona a course?
 
 ## waarin verschillende deze personas?
 
