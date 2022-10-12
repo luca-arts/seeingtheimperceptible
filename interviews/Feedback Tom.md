@@ -1,4 +1,4 @@
-# Foodfotograaf Tom Swalens
+# Foodfotograaf Tom S.
 
 outpainting voorbeeld van drankje: 
 	scherpte klopt niet overal

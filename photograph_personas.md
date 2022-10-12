@@ -15,6 +15,7 @@
 13. Auto fotograaf
 14. Sport fotograaf
 15. Concert fotograaf
+16. Tinder fotograaf?
 
 ## Methodologie
 
