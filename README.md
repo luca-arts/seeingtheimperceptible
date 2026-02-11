@@ -1,6 +1,6 @@
 # visualising the imperceptible
 
-Project page for research project Visualising The Imperceptible (Lieven Verkens)
+Project page for research project Visualising The Imperceptible (LV)
 
 ## Introduction
 
